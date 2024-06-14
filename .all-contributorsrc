@@ -2746,6 +2746,15 @@
         "translation"
       ]
     }
+    {
+      "login": "jxtsai",
+      "name": "jxtsai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8361268?v=4",
+      "profile": "https://github.com/jxtsai",
+      "contributions": [
+        "translation"
+      ]
+    }
   ],
   "contributorsPerLine": 5,
   "linkToUsage": true
